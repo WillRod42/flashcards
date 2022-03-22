@@ -1,3 +1,15 @@
 .display {
   display: none;
 }
+
+.card:hover {
+  background-color: aquamarine;
+}
+
+.card {
+  display: none;
+}
+
+.main-card {
+  display: block;
+}
