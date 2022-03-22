@@ -13,3 +13,7 @@
 .main-card {
   display: block;
 }
+
+p:hover, h5:hover {
+  cursor: default;
+}
